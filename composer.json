@@ -7,7 +7,7 @@
         }
     },
     "require": {
-        "fzaninotto/faker": "^1.15"
+        "fzaninotto/faker": "~1.10"
     },
     "license": "MIT",
     "authors": [
